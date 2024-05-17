@@ -300,11 +300,11 @@ a:nth-child(5){
       } 
       g1{  font-size: 80px;
         font-family:"Sedan SC", serif;
-        margin: 0;
+        margin: 10rem;
         color: #78A083; 
         text-align: center;
         align-items:center;
-        margin-top: 40rem;
+        
       
       }
       .logo1{        
