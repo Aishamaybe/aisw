@@ -293,14 +293,13 @@ a:nth-child(5){
           padding: 50px; 
           width: 33%; 
           text-align: center;
-      
           transition-duration: 0.5s; 
           margin: 0 15px; 
            
       } 
       g1{  font-size: 80px;
         font-family:"Sedan SC", serif;
-        margin: 10rem;
+        margin: 0;
         color: #78A083; 
         text-align: center;
         align-items:center;
