@@ -293,6 +293,7 @@ a:nth-child(5){
           padding: 50px; 
           width: 33%; 
           text-align: center;
+      
           transition-duration: 0.5s; 
           margin: 0 15px; 
            
@@ -303,7 +304,7 @@ a:nth-child(5){
         color: #78A083; 
         text-align: center;
         align-items:center;
-        
+        margin-top: 40rem;
       
       }
       .logo1{        
