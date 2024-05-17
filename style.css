@@ -295,8 +295,8 @@ a:nth-child(5){
           text-align: center;
           transition-duration: 0.5s; 
           margin: 0 15px; 
-          display:flex;
-          align-items:center;
+          align-items: center;
+          display: flex;
            
       } 
       g1{  font-size: 80px;
